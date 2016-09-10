@@ -1,0 +1,14 @@
+.addMarker {
+    background-color: #fff;
+    display: inline-block;
+    padding: 10px 15px 5px;
+    margin-bottom: 10px;
+}
+
+.radarContainer_left {
+	position:absolute;
+	top:35px;
+	left:0px;
+	width:100px;
+	height:100px;
+}
